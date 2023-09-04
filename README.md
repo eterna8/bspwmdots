@@ -6,6 +6,7 @@
 <p align="center"> <b>Update (04/09/2023)</b></p>
 >Added config files,created repository.
 >Added setup file.
+
 --------------------------------------------------------------------------
 <p align="center"> <b>Setup
 Wm:Bspwm

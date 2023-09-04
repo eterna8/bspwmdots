@@ -7,6 +7,7 @@ case $yn in
                 exit;;
         * ) echo invalid response;
                 exit 1;;
+esac
 sudo pacman -S --noconfirm bspwm sxhkd polybar dolphin alacritty dunst rofi qt5ct kvantum  flameshot ttf-font-awesome ttf-cascadia-code zsh kcolorchooser nitrogen
 git clone --depth 1 https://aur.archlinux.org/zsh-theme-powerlevel10k-git && cd
 zsh-theme-powerlevel10k-git && makepkg -si && cd -

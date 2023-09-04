@@ -1,7 +1,7 @@
 <p align="left"> Dotfiles
 
 --------------------------------------------------------------------------
-If you get any error,report to my [Instagram](https://www.instagram.com/_._eterna_._/),[Discord server](https://discord.gg/UTeC3zy3sy)
+If you have any problem/error,report to my [Instagram](https://www.instagram.com/_._eterna_._/),[Discord server](https://discord.gg/UTeC3zy3sy)
 --------------------------------------------------------------------------
 
 <p align="center"> <b>Update (04/09/2023)</b></p>

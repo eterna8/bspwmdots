@@ -8,6 +8,5 @@ cd -
 sh .zshinstall.sh
 elif [[ $process == n|| $process == N ]]; then
 clear
-cd -
 sh .zshinstall.sh
 fi

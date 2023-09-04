@@ -10,7 +10,7 @@ case $yn in
 esac
 echo Copying files to ~/.config
 cd config
-cp -r alacritty bspwm polybar sxhkd scripts dunst
+cp -r alacritty bspwm polybar sxhkd scripts dunst ~/.config
 
 read -p "Do you want to install Zsh configration? (yes/no) " yn
 

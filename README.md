@@ -1,4 +1,4 @@
- align="right" /> Dotfiles 
+<p align="right"> Dotfiles 
 -------------------------------------------------------------------------
 --------------------------------------------------------------------------
 
@@ -25,8 +25,7 @@ Compositor:None
 
 Desktop Look<br>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/2817ea64-8f6d-4a15-a01f-e4423916b425)
-
+![image](https://github.com/eterna8/bspwmdots/assets/139211439/433592b4-f40f-4a6c-9711-a0d5a1ba4595)
 
 <br/>
 </details>

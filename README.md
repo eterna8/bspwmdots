@@ -1,1 +1,57 @@
-# bspwmdots
+ align="right" /> Dotfiles 
+-------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+<p align="center"> <b>Update (04/09/2023)</b></p>
+>Added config files,created repository.
+
+--------------------------------------------------------------------------
+<p align="center"> <b>Setup
+Wm:Bspwm
+Terminal:Alacritty
+Launcher:Rofi
+Bar:Polybar
+Shell:Zsh
+Color scheme:Nord
+Font:Cascadia Code
+Icon theme:Tela Circle Nord (For Rofi and File manager)
+Compositor:None
+
+--------------------------------------------------------------------------
+
+İnstaller not realased.
+
+--------------------------------------------------------------------------
+
+Desktop Look<br>
+
+![image](https://github.com/eterna8/dotfiles/assets/139211439/2817ea64-8f6d-4a15-a01f-e4423916b425)
+
+
+<br/>
+</details>
+
+<details>
+<summary> Look (Terminal) </summary> 
+
+![image](https://github.com/eterna8/bspwmdots/assets/139211439/7e3ec95b-2dcc-48d2-8ffb-01cc6e6f2ae8)
+
+
+
+</details>
+
+<details>
+<summary> Look (gtk theme) </summary>
+ 
+![image](https://github.com/eterna8/bspwmdots/assets/139211439/1d11939c-fb43-4f27-8b47-a878253e7553)
+
+
+</details>
+
+--------------------------------------------------------------------------
+<p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
+
+<p align="center">Color scheme(For another app themes) https://nordtheme.com</p>
+
+--------------------------------------------------------------------------
+<p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz</a>

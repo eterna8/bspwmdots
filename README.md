@@ -1,4 +1,5 @@
 <p align="right"> Dotfiles 
+ 
 -------------------------------------------------------------------------
 --------------------------------------------------------------------------
 
@@ -8,13 +9,21 @@
 --------------------------------------------------------------------------
 <p align="center"> <b>Setup
 Wm:Bspwm
+ 
 Terminal:Alacritty
+
 Launcher:Rofi
+
 Bar:Polybar
+
 Shell:Zsh
+
 Color scheme:Nord
+
 Font:Cascadia Code
+
 Icon theme:Tela Circle Nord (For Rofi and File manager)
+
 Compositor:None
 
 --------------------------------------------------------------------------

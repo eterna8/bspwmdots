@@ -1,11 +1,10 @@
-<p align="right"> Dotfiles 
- 
+<p align="left"> Dotfiles
 -------------------------------------------------------------------------
 --------------------------------------------------------------------------
 
 <p align="center"> <b>Update (04/09/2023)</b></p>
 >Added config files,created repository.
-
+>Added setup file.
 --------------------------------------------------------------------------
 <p align="center"> <b>Setup
 Wm:Bspwm
@@ -27,8 +26,11 @@ Icon theme:Tela Circle Nord (For Rofi and File manager)
 Compositor:None
 
 --------------------------------------------------------------------------
+Installer realased for arch.
 
-İnstaller not realased.
+```
+git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd bspwmdots && sh archinstaller.sh
+```
 
 --------------------------------------------------------------------------
 

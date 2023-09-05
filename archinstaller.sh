@@ -1,4 +1,4 @@
-echo "Welcome to the config&needed apps setup!"
+echo "Welcome to the config&needed apps setup!You need yay (aur helper) to continue"
 echo "do you want to continue? (Y/N)" ; read process
 if [[ $process == y || $process == Y ]]; then
 sudo pacman -S bspwm sxhkd polybar dolphin alacritty dunst rofi qt5ct kvantum  flameshot ttf-font-awesome ttf-cascadia-code zsh kcolorchooser nitrogen

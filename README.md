@@ -4,11 +4,9 @@
 If you have any problem/error,report to my [Instagram](https://www.instagram.com/_._eterna_._/) or [Discord](https://discord.gg/UTeC3zy3sy).
 --------------------------------------------------------------------------
 
-<p align="center"> <b>Update (04/09/2023)</b></p>
+<p align="center"> <b>Update (05/09/2023)</b></p>
 
->Added config files,created repository.
-
->Added setup file.
+>Polybar centered,Bspwm border colors added.
 
 
 --------------------------------------------------------------------------
@@ -43,7 +41,7 @@ git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd bspwmdots && sh a
 
 Desktop Look<br>
 
-![image](https://github.com/eterna8/bspwmdots/assets/139211439/433592b4-f40f-4a6c-9711-a0d5a1ba4595)
+![bspwm-desktop](https://github.com/eterna8/bspwmdots/assets/139211439/46391a7c-4de9-4934-97fa-38b5ef915627)
 
 <br/>
 </details>
@@ -51,7 +49,7 @@ Desktop Look<br>
 <details>
 <summary> Look (Terminal) </summary> 
 
-![image](https://github.com/eterna8/bspwmdots/assets/139211439/7e3ec95b-2dcc-48d2-8ffb-01cc6e6f2ae8)
+![bspwm-term](https://github.com/eterna8/bspwmdots/assets/139211439/4764c5c8-0c89-4dc7-a84d-50ac09f9a47a)
 
 
 
@@ -59,8 +57,8 @@ Desktop Look<br>
 
 <details>
 <summary> Look (gtk theme) </summary>
- 
-![image](https://github.com/eterna8/bspwmdots/assets/139211439/1d11939c-fb43-4f27-8b47-a878253e7553)
+
+![bspwm-file](https://github.com/eterna8/bspwmdots/assets/139211439/2a8def3a-575d-4f27-b53e-fb9becf8b287)
 
 
 </details>
